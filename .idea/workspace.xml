@@ -94,6 +94,22 @@
         <option name="Android.Gradle.BeforeRunTask" enabled="true" />
       </method>
     </configuration>
+    <configuration name="_3_StartThePhoneActivity" type="AndroidJUnit" factoryName="Android JUnit" temporary="true" nameIsGenerated="true">
+      <module name="app" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.pluralsight.candycoded.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.pluralsight.candycoded" />
+      <option name="MAIN_CLASS_NAME" value="com.pluralsight.candycoded._3_StartThePhoneActivity" />
+      <option name="TEST_OBJECT" value="class" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <method v="2">
+        <option name="Android.Gradle.BeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
     <configuration default="true" type="AndroidJUnit" factoryName="Android JUnit">
       <option name="TEST_OBJECT" value="class" />
       <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
@@ -169,6 +185,7 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Android JUnit._3_StartThePhoneActivity" />
         <item itemvalue="Android JUnit._2_StartTheGoogleMapsActivity" />
         <item itemvalue="Android JUnit._1_StartTheStoreInformationActivity" />
         <item itemvalue="Android JUnit.com.pluralsight.candycoded in app" />
@@ -193,22 +210,22 @@
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="486" y="78" key="#com.intellij.ide.util.MemberChooser/0.0.1366.728@0.0.1366.728" timestamp="1600947935453" />
-    <state width="1306" height="562" key="GridCell.Tab.0.bottom" timestamp="1601031257161">
+    <state width="1306" height="562" key="GridCell.Tab.0.bottom" timestamp="1601031944256">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1306" height="562" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1601031257161" />
-    <state width="1306" height="562" key="GridCell.Tab.0.center" timestamp="1601031257161">
+    <state width="1306" height="562" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1601031944256" />
+    <state width="1306" height="562" key="GridCell.Tab.0.center" timestamp="1601031944255">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1306" height="562" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1601031257161" />
-    <state width="1306" height="562" key="GridCell.Tab.0.left" timestamp="1601031257160">
+    <state width="1306" height="562" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1601031944255" />
+    <state width="1306" height="562" key="GridCell.Tab.0.left" timestamp="1601031944255">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1306" height="562" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1601031257160" />
-    <state width="1306" height="562" key="GridCell.Tab.0.right" timestamp="1601031257161">
+    <state width="1306" height="562" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1601031944255" />
+    <state width="1306" height="562" key="GridCell.Tab.0.right" timestamp="1601031944255">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1306" height="562" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1601031257161" />
+    <state width="1306" height="562" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1601031944255" />
     <state x="379" y="208" key="com.intellij.ide.util.TipDialog" timestamp="1601030340840">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
